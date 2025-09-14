@@ -61,6 +61,8 @@ This bot offers a **BUNCH** of commands, including:
 
 ## Getting Started 🚀
 
+⚠️ | Make sure you have installed python 3.10 | ⚠️
+
 1. **Clone the repo or download the ZIP**
     ```sh
     git clone https://github.com/snowwysl/discord-utility-bot.git
